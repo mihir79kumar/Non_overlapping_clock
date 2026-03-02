@@ -1,5 +1,5 @@
 # Non_overlapping_clock
-# 🕒 Non-Overlapping Clock Generators (2-Phase & 3-Phase) – CMOS Design in Tanner EDA
+# 🕒 Non-Overlapping Clock Generators (2-Phase & 3-Phase) – CMOS Design in Cadence Virtuoso
 
 ##  What is a Non-Overlapping Clock?
 
